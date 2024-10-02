@@ -1,4 +1,26 @@
-## Hi there 👋
+# Nikita S.
+
+👨‍💻 Backend Developer | Rust | Python | PostgreSQL | Linux |
+
+📍 Moscow, Russia 🇷🇺
+
+[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+---
+
+## About Me
+
+I am a Backend developer with a focus on Rust. I am based in Moscow, Russia. Here are some key details about me:
+- 💼 Completed Computer Science studies at https://practicum.yandex.ru
+- 🎓 Graduated from MPEI (Moscow Power Engineering Institute)
+- 📚 Constantly learning and exploring new technologies in the development field
+- ⌛ Open to different employment formats and flexible work schedules
+
+Feel free to reach out to me through [telegram](https://t.me/devqsl) if you have any questions or would like to connect.
+
+
 
 <!--
 **nikita141150/nikita141150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
