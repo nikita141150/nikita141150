@@ -13,7 +13,7 @@
 ## About Me
 
 I am a Backend developer with a focus on Rust. I am based in Moscow, Russia. Here are some key details about me:
-- 💼 Completed Computer Science studies at https://practicum.yandex.ru
+- 💼 Completed course Python developer at https://practicum.yandex.ru
 - 🎓 Graduated from MPEI (Moscow Power Engineering Institute)
 - 📚 Constantly learning and exploring new technologies in the development field
 - ⌛ Open to different employment formats and flexible work schedules
