@@ -1,6 +1,6 @@
 # Nikita S.
 
-👨‍💻 Backend Developer | Rust | Python | PostgreSQL | Linux |
+👨‍💻 Backend Developer | Rust | Python | PostgreSQL | Linux | Docker
 
 📍 Moscow, Russia 🇷🇺
 
