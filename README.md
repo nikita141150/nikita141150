@@ -1,6 +1,8 @@
 # Nikita S.
 
-👨‍💻 Backend Developer | Rust | Python | PostgreSQL | Linux | Docker
+👨‍💻 Backend Developer 
+
+Rust | Python | PostgreSQL | Linux | Docker
 
 📍 Moscow, Russia 🇷🇺
 
@@ -18,7 +20,9 @@ I am a Backend developer with a focus on Rust. I am based in Moscow, Russia. Her
 - 📚 Constantly learning and exploring new technologies in the development field
 - ⌛ Open to different employment formats and flexible work schedules
 
-Feel free to reach out to me through [telegram](https://t.me/devqsl) if you have any questions or would like to connect.
+
+
+📫 How to reach me: [Telegram](https://t.me/devqsl) if you have any questions or would like to connect.
 
 
 
